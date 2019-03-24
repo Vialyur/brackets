@@ -45,7 +45,7 @@ module.exports = function check(str, bracketsConfig) {
 
   if (stash.length) {
     return false;
-  } else {
+    } else {
   return true;
   }
 }
